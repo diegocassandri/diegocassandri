@@ -4,7 +4,7 @@
 
 Atuo como analista de sistemas, analista de negócios e hoje sou Squad Leader de um time na Senior Sistemas S.A. 
 
-Meu foco de pesquisa e estudos está direionado a desenvolvimento de software, cloud, serverless. Também sou apaixonado pelo assunto de produtivade e qualidade de vida no trabalho.
+Meu foco de pesquisa e estudos está direionado a desenvolvimento de software, cloud, serverless, dentre outros. Também sou apaixonado por técnicas de produtivade e qualidade de vida no trabalho.
 
 Meu lema é sempre buscar conhecimento, vito que a vida é uma eterna jornada de aprendizado.
 
@@ -12,7 +12,7 @@ Você pode me encontrar também no [Linkedin](https://www.linkedin.com/in/rogerb
 
 E também no meu site pessoal [diegocassandri.com](https://diegocassandri.com)
 
-### Tecnologias que conheço
+### Principais Tecnologias 
 
 ------
 ![](https://img.shields.io/badge/Linguagem-Javascript-yellow?style=for-the-badge&logo=javascript) ![](https://img.shields.io/badge/Linguagem-Typescript-blue?style=for-the-badge&logo=typescript) ![](https://img.shields.io/badge/Backend-Nodejs-green?style=for-the-badge&logo=node.js) ![](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react) ![](https://img.shields.io/badge/TECNOLOGIA-aws-orange?style=for-the-badge&logo=amazon)
