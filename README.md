@@ -8,7 +8,7 @@ Meu foco de pesquisa e estudos está direionado a desenvolvimento de software, c
 
 Meu lema é sempre buscar conhecimento, vito que a vida é uma eterna jornada de aprendizado.
 
-Você pode me encontrar também no [Linkedin](https://www.linkedin.com/in/rogerbertoni/) 
+Você pode me encontrar também no [Linkedin](https://www.linkedin.com/in/diegocassandri/) 
 
 E também no meu site pessoal [diegocassandri.com](https://diegocassandri.com)
 
@@ -22,7 +22,7 @@ E também no meu site pessoal [diegocassandri.com](https://diegocassandri.com)
 
 ------
 
-[![Diego Cassandri github stats](https://github-readme-stats.vercel.app/api?username=diegocassandri&show_icons=true&theme=darcula&locale=pt-br)](https://github.com/RogerBertoni/github-readme-stats)
+[![Diego Cassandri github stats](https://github-readme-stats.vercel.app/api?username=diegocassandri&show_icons=true&theme=darcula&locale=pt-br)](https://github.com/diegocassandri/github-readme-stats)
 
 <!--
 **diegocassandri/diegocassandri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
