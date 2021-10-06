@@ -7,7 +7,7 @@ I'm Always learning! My purpose is find best solutions through technology.ðŸŒ± ð
 You can find me in [Linkedin](https://www.linkedin.com/in/diegocassandri/). And in my personal blog [diegocassandri.com](https://diegocassandri.com).
 
 
-### Languagues ans tools
+### Languagues and tools
 
 - ![](https://img.shields.io/badge/Language-Javascript-yellow?style=for-the-badge&logo=javascript) 
 - ![](https://img.shields.io/badge/Language-Typescript-blue?style=for-the-badge&logo=typescript) 
