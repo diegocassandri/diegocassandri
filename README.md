@@ -1,25 +1,25 @@
-## Olá, meu nome é Diego Cassandri e seja bem vindo(a) ao meu Github 👋
+## HI, I'm Diego Cassandri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Atualmente atuo como analista de sistemas, analista de negócios e Squad Leader em um time na Senior Sistemas S.A. 
+Team Leader, Systems Analyst and Business Analyst At [Senior Sistemas](https://www.senior.com.br)
 
-Meu lema é buscar conhecimento sempre. 🌱
+I'm Always learning! My purpose is find best solutions through technology.🌱 👨‍💻
 
-Você pode me encontrar também no [Linkedin](https://www.linkedin.com/in/diegocassandri/) E também no meu blog pessoal [diegocassandri.com](https://diegocassandri.com).
+You can find me in [Linkedin](https://www.linkedin.com/in/diegocassandri/). And in my personal blog [diegocassandri.com](https://diegocassandri.com).
 
-### Principais Tecnologias
 
-- ![](https://img.shields.io/badge/Linguagem-Javascript-yellow?style=for-the-badge&logo=javascript) 
-- ![](https://img.shields.io/badge/Linguagem-Typescript-blue?style=for-the-badge&logo=typescript) 
+### Languagues ans tools
+
+- ![](https://img.shields.io/badge/Language-Javascript-yellow?style=for-the-badge&logo=javascript) 
+- ![](https://img.shields.io/badge/Language-Typescript-blue?style=for-the-badge&logo=typescript) 
 - ![](https://img.shields.io/badge/Backend-Nodejs-green?style=for-the-badge&logo=node.js) 
 - ![](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react) 
 - ![](https://img.shields.io/badge/CLOUDProvider-aws-orange?style=for-the-badge&logo=amazon)
 - ![](https://img.shields.io/badge/FRAMEWORK-serverless-red?style=for-the-badge&logo=serverless)
-- ![](https://img.shields.io/badge/Linguagem-lsp-FF9E0F?style=for-the-badge&logo=lsp)
-- ![](https://img.shields.io/badge/Plataforma-SENIORX-006643?style=for-the-badge&logo=lsp)
+- ![](https://img.shields.io/badge/Language-lsp-FF9E0F?style=for-the-badge&logo=lsp)
+- ![](https://img.shields.io/badge/Plataform-SENIORX-006643?style=for-the-badge&logo=lsp)
 
 
-
-### Principais Metodologias e interesses
+### Methodologies and interests
 
 - ![](https://img.shields.io/badge/METHOD-zettelkasten-gray?style=for-the-badge&logo=roamresearch)
 - ![](https://img.shields.io/badge/METHOD-GTD-008DB6?style=for-the-badge&logo=smartthings)
@@ -27,11 +27,9 @@ Você pode me encontrar também no [Linkedin](https://www.linkedin.com/in/diegoc
 
 
 
-### Minhas estatísticas no Github
+### Stats
 
-------
-
-[![Diego Cassandri github stats](https://github-readme-stats.vercel.app/api?username=diegocassandri&show_icons=true&theme=darcula&locale=pt-br)](https://github.com/diegocassandri/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocassandri&show_icons=true&theme=gotham" alt="diegocassandri" />
 
 <!--
 **diegocassandri/diegocassandri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
