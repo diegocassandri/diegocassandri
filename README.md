@@ -1,24 +1,30 @@
 ## Olá, meu nome é Diego Cassandri e seja bem vindo(a) ao meu Github 👋
 
-Atuo como analista de sistemas, analista de negócios e hoje sou Squad Leader de um time na Senior Sistemas S.A. 
+Atualmente atuo como analista de sistemas, analista de negócios e Squad Leader em um time na Senior Sistemas S.A. 
 
-Meu foco de pesquisa e estudos está direionado a desenvolvimento de software, cloud, serverless, dentre outros. Também sou apaixonado por técnicas de produtivade e qualidade de vida no trabalho.
+Meu lema é buscar conhecimento sempre. 🌱
 
-Meu lema é sempre buscar conhecimento, visto que a vida é uma eterna jornada de aprendizado. 🌱
+Você pode me encontrar também no [Linkedin](https://www.linkedin.com/in/diegocassandri/) E também no meu blog pessoal [diegocassandri.com](https://diegocassandri.com).
 
-Você pode me encontrar também no [Linkedin](https://www.linkedin.com/in/diegocassandri/) 
+### Principais Tecnologias
 
-E também no meu site pessoal [diegocassandri.com](https://diegocassandri.com)
+- ![](https://img.shields.io/badge/Linguagem-Javascript-yellow?style=for-the-badge&logo=javascript) 
+- ![](https://img.shields.io/badge/Linguagem-Typescript-blue?style=for-the-badge&logo=typescript) 
+- ![](https://img.shields.io/badge/Backend-Nodejs-green?style=for-the-badge&logo=node.js) 
+- ![](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react) 
+- ![](https://img.shields.io/badge/CLOUDProvider-aws-orange?style=for-the-badge&logo=amazon)
+- ![](https://img.shields.io/badge/FRAMEWORK-serverless-red?style=for-the-badge&logo=serverless)
+- ![](https://img.shields.io/badge/Linguagem-lsp-FF9E0F?style=for-the-badge&logo=lsp)
+- ![](https://img.shields.io/badge/Plataforma-SENIORX-006643?style=for-the-badge&logo=lsp)
 
-### Principais Tecnologias 
 
-------
-![](https://img.shields.io/badge/Linguagem-Javascript-yellow?style=for-the-badge&logo=javascript) 
-![](https://img.shields.io/badge/Linguagem-Typescript-blue?style=for-the-badge&logo=typescript) 
-![](https://img.shields.io/badge/Backend-Nodejs-green?style=for-the-badge&logo=node.js) 
-![](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react) 
-![](https://img.shields.io/badge/TECNOLOGIA-aws-orange?style=for-the-badge&logo=amazon)
-![](https://img.shields.io/badge/Framework-Angular-red?style=for-the-badge&logo=angular)
+
+### Principais Metodologias e interesses
+
+- ![](https://img.shields.io/badge/METHOD-zettelkasten-gray?style=for-the-badge&logo=roamresearch)
+- ![](https://img.shields.io/badge/METHOD-GTD-008DB6?style=for-the-badge&logo=smartthings)
+- ![](https://img.shields.io/badge/METHOD-SCRUM-0052CC?style=for-the-badge&logo=trello)
+
 
 
 ### Minhas estatísticas no Github
