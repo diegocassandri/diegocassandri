@@ -6,7 +6,7 @@ Atuo como analista de sistemas, analista de negócios e hoje sou Squad Leader de
 
 Meu foco de pesquisa e estudos está direionado a desenvolvimento de software, cloud, serverless, dentre outros. Também sou apaixonado por técnicas de produtivade e qualidade de vida no trabalho.
 
-Meu lema é sempre buscar conhecimento, vito que a vida é uma eterna jornada de aprendizado.
+Meu lema é sempre buscar conhecimento, visto que a vida é uma eterna jornada de aprendizado.
 
 Você pode me encontrar também no [Linkedin](https://www.linkedin.com/in/diegocassandri/) 
 
