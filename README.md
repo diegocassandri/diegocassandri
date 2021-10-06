@@ -1,10 +1,10 @@
 ## HI, I'm Diego Cassandri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Team Leader, Systems Analyst and Business Analyst At [Senior Sistemas](https://www.senior.com.br)
+Team Leader, Systems and Business Analyst At [Senior Sistemas](https://www.senior.com.br)
 
-I'm Always learning! My purpose is find best solutions through technology.🌱 👨‍💻
+I'm Always learning! My purpose is to find the best solutions through technology.🌱 👨‍💻
 
-You can find me in [Linkedin](https://www.linkedin.com/in/diegocassandri/). And in my personal blog [diegocassandri.com](https://diegocassandri.com).
+You can find me in [Linkedin](https://www.linkedin.com/in/diegocassandri/). And on my personal blog [diegocassandri.com](https://diegocassandri.com).
 
 
 ### Languagues and tools
