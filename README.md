@@ -1,4 +1,4 @@
-## HI, I'm Diego Cassandri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## HI, I'm Diego Cassandri! 
 
 Team Leader, Systems and Business Analyst At [Senior Sistemas](https://www.senior.com.br)
 
