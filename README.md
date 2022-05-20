@@ -13,6 +13,8 @@ You can find me in [Linkedin](https://www.linkedin.com/in/diegocassandri/). And 
 
 
 ### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocassandri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 <a href="https://app.daily.dev/diegocassanri"><img src="https://api.daily.dev/devcards/66dec118cae64af1b180fa3ec3366d7f.png?r=np1" width="400" alt="Diego Cassandri's Dev Card"/></a>
   
   
