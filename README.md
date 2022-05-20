@@ -1,6 +1,6 @@
 ## HI, I'm Diego Cassandri! 
 
-Team Leader, Systems and Business Analyst At [Senior Sistemas](https://www.senior.com.br)
+Team Leader, Systems and Business Analys.
 
 I'm Always learning! My purpose is to find the best solutions through technology.🌱 👨‍💻
 
@@ -13,9 +13,9 @@ You can find me in [Linkedin](https://www.linkedin.com/in/diegocassandri/). And 
 
 
 ### Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocassandri&show_icons=true&theme=gotham" alt="diegocassandri" />
-
+<a href="https://app.daily.dev/diegocassanri"><img src="https://api.daily.dev/devcards/66dec118cae64af1b180fa3ec3366d7f.png?r=np1" width="400" alt="Diego Cassandri's Dev Card"/></a>
+  
+  
 <!--
 **diegocassandri/diegocassandri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
