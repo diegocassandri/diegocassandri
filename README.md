@@ -1,8 +1,8 @@
 ## HI, I'm Diego Cassandri! 
 
-Team Leader, Systems and Business Analys.
+Team Leader, Systems and Business Analyst.
 
-I'm Always learning! My purpose is to find the best solutions through technology.🌱 👨‍💻
+I'm Always learning! My purpose is to find the best solutions through technology.
 
 You can find me in [Linkedin](https://www.linkedin.com/in/diegocassandri/). And read about my thoughts on [diegocassandri.com](https://diegocassandri.com).
 
